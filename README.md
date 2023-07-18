@@ -15,3 +15,27 @@
 > **제작 기간** : 2020.03.02 ~ 2023.6.20
 >
 > **프로젝트 주제** : 현지인 매칭을 통해 자유여행객에게 맞춤형 정보를 제공하는 애플리케이션 개발
+<br />
+
+
+<br />
+<div align="center">
+  <img src="https://github.com/LeeSeongHui/BP_project/blob/master/app/src/main/res/drawable/portfolio/blue_01.gif" width="300" height="550" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github.com/LeeSeongHui/BP_project/blob/master/app/src/main/res/drawable/portfolio/blue_02.gif" width="300" height="550" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github.com/LeeSeongHui/BP_project/blob/master/app/src/main/res/drawable/portfolio/blue_03.gif" width="300" height="550" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github.com/LeeSeongHui/BP_project/blob/master/app/src/main/res/drawable/portfolio/blue_04.gif" width="300" height="550" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github.com/LeeSeongHui/BP_project/blob/master/app/src/main/res/drawable/portfolio/blue_05.gif" width="300" height="550" />
+</div>
+
