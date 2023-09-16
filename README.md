@@ -1,8 +1,8 @@
 # 블루피플
-<br>
+<br/>
 
 # :books: <a name="outline">개요</a>
-<br>
+<br/>
 <img src="https://github.com/LeeSeongHui/BP_project/blob/master/app/src/main/res/drawable/portfolio/logo.png" width="70" height="100"/>
 
 
@@ -19,7 +19,10 @@
 > **프로젝트 내용** : '블루피플'은 국내여행을 즐기고 싶은 자유여행객에게 1:1현지인 매칭을 통해 온라인 맞춤형 정보를 실시간으로 제공해 주는 애플리케이션이다. '블루오션', '잘 알려지지 않아 유망한 시장'이라는 뜻이 담겨있듯 '블루피플' 또한 현지인들만 아는, 잘 알려지지 않은 곳을 소개해 줄 수 있는 사람들이라는 뜻이 담겨 있다. 자유 여행객 수의 비율이 높고, 주로 지인을 통해 여행정보를 획득하는 근래 국내 관광시장의 상황에서 매칭 서비스 애플리케이션을 출시해 자유여행객들이 마치 현지에 있는 자신의 친구에게 물어보듯 편하게 여행에 관한 궁금증을 해결해 주도록 한다. 여행자는 해시태그와 지역정보를 기반으로 생성된 현지인 리스트에서 맞춤형 현지인을 매칭하고, 현지인과의 실시간 채팅을 통하여 양질의 정보를 얻을 수 있다. 또한 현지인은 여행자와의 동기화된 화면공유를 통해 여행정보를 효율적으로 전달이 가능하다.
 <br />
 
-# :bookmark_tabs: <a name="function">기능 구현 시연 영상</a>
+# :wrench: <a name="function">기술 스택</a>
+<br />
+
+# :bookmark_tabs: <a name="tech">기능 구현 시연 영상</a>
 <br/>
 
 # <a name="fun1">1. 시작화면(회원가입, 로그인)
@@ -35,7 +38,7 @@
 <br />
 <br />
 
-# <a name="fun2">2. 화면구성((1)홈, (2)매칭, (3)채팅, (4)설정)
+# <a name="fun2">2. 화면구성(홈, 매칭, 채팅, 설정)
 <br />
 <div align="center">
   <img src="https://github.com/LeeSeongHui/BP_project/blob/master/app/src/main/res/drawable/portfolio/blue_02.gif" width="300" height="550" />
@@ -61,15 +64,26 @@
 <br />
 <br />
 
-# <a name="fun4">4. 지도 위치핀 정보 공유 서비스
+# <a name="fun4">4. 지도상 위치핀 정보 공유 서비스
 <br />
 <div align="center">
   <img src="https://github.com/LeeSeongHui/BP_project/blob/master/app/src/main/res/drawable/portfolio/blue_04.gif" width="300" height="550" />
 </div>
 <br />
-- 채팅방 내부 지도 서비스를 통해 현지인은 추천하는 장소를 지도상에 위치핀으로 전달하고 싶은 내용과 함께 등록해  
+- 채팅방 내부 지도 서비스를 통해 현지인은 추천장소를 지도상에 위치핀으로 표시할 수 있음<br />
+- 위치핀 표시와 함께 해당 장소에서 참고할 정보(ex. OO시간대 방문 시 광안리방면 교통번잡으로 지하철 이용 추천)를 등록 및 수정 가능<br />
+- 여행자는 현지인이 등록한 지도상의 정보를 함께 조회할 수 있음
+<br />
+<br />
+<br />
 
+# <a name="fun5">5. 리뷰작성
+<br />
 <div align="center">
   <img src="https://github.com/LeeSeongHui/BP_project/blob/master/app/src/main/res/drawable/portfolio/blue_05.gif" width="300" height="550" />
 </div>
-
+<br />
+- 현지인 상세프로필 화면에서 현지인에게 제공받은 정보와 추천코스 등에 대한 만족도를 평점과 후기로 등록가능
+<br />
+<br />
+<br />
